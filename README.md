@@ -1,6 +1,6 @@
 ### Hi, I'm ShackWove 👋
 
-- 🔭 I’m currently working on **Thesis on Backdoor Attacks in Machine Learning**
+- 🔭 I’m currently working on **Malicious Prompt in LLM models**
 - 🌱 I’m currently learning **C++**, **Reverse Engineering** and **AI**
 
 
