@@ -1,7 +1,7 @@
 ### Hi, I'm ShackWove 👋
 
 
-- 🌱 I’m currently learning **C++**, **Reverse Engineering** and **AI**
+- 🌱 I’m currently learning **Exploit Development**, **Reverse Engineering** and **AI**
 
 
 <!--
