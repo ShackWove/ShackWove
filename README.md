@@ -1,5 +1,5 @@
 <h1 align="center">▌Initializing . . . </h1>
-<p align="center"><code>└─[Kuro@localhost]─$</code> Cybersecurity | CTF | Anime | Analysis</p>
+<p align="center"><code>└─[shackwove@localhost]─$</code> Cybersecurity | CTF | Analysis</p>
 
 
 ### 🕵️‍♂️ Whoami
