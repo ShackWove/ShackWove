@@ -1,6 +1,5 @@
-<h1 align="center">アクセス許可 // Access Granted: Welcome to my GitHub ⚡</h1>
-<p align="center">🔐 Cybersecurity Student | 🧠 Curious Mind | 💻 Lover of Logic and Anime</p>
-
+<h1 align="center">▌Initializing . . . </h1>
+<p align="center"><code>└─[Kuro@localhost]─$</code> Cybersecurity | CTF | Anime | Analysis</p>
 
 
 ### 🕵️‍♂️ Whoami
