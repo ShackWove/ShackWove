@@ -1,5 +1,8 @@
-<h1 align="center">▌Initializing . . . </h1>
-<p align="center"><code>└─[shackwove@localhost]─$</code> Cybersecurity | CTF | Analysis</p>
+<h1 align="center">▌Initializing...</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=└─[Kuro@localhost]─$+analyzing+traffic...;└─[Kuro@localhost]─$+decrypting+packets...;└─[Kuro@localhost]─$+watching+Steins%3BGate;└─[Kuro@localhost]─$+compiling+exploit..." alt="Typing SVG" />
+</p>
 
 
 ### 🕵️‍♂️ Whoami
