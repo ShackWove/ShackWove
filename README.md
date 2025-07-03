@@ -1,7 +1,7 @@
 <h1 align="center">▌Initializing...</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=└─[Kuro@localhost]─$+Analyzing+packets...;└─[Kuro@localhost]─$+Decrypting+payloads...;└─[Kuro@localhost]─$+Launching+CTF+tools...;└─[Kuro@localhost]─$+Watching+Psycho-Pass..." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=└─[ShackWove@localhost]─$+Analyzing+packets...;└─[ShackWove@localhost]─$+Decrypting+payloads...;└─[ShackWove@localhost]─$+Launching+CTF+tools...;└─[ShackWove@localhost]─$+Watching+Psycho-Pass..." alt="Typing animation" />
 </p>
 
 
