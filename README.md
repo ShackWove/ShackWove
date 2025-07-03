@@ -1,3 +1,7 @@
+<h1 align="center">アクセス許可 // Access Granted: Welcome to my GitHub ⚡</h1>
+<p align="center">🔐 Cybersecurity Student | 🧠 Curious Mind | 💻 Lover of Logic and Anime</p>
+
+
 
 ### 🕵️‍♂️ Whoami
 
@@ -6,7 +10,7 @@
 - 🕸️ CTF Player
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -15,3 +19,4 @@
 </p>
 
 ---
+-->
