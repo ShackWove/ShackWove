@@ -9,7 +9,7 @@
 
 ### 🕵️‍♂️ Whoami
 
-- 🔐 I’m currently pursuing a degree in **Cybersecurity**
+- 🔐 I’m currently pursuing a Master degree in **Computer Science**
 - 🧠 Passionate about **penetration testing, malware analysis and red teaming**
 - 🕸️ CTF Player and member of the CTF team [*ByteTheCookies*](https://bytethecookies.github.io/)🍪
 
